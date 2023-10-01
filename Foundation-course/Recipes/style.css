@@ -1,0 +1,26 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading {
+    text-align: center;
+
+    background-color: rgba(245, 197, 66, 0.5)
+}
+
+.recipe {
+    font-weight: bold;
+    font-size: large;
+}
+
+.scrambled-eggs {
+    color: red;
+}
+
+.lasagna {
+    color: green;
+}
+
+.pancakes {
+    color: blue;
+}
